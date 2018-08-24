@@ -1,9 +1,8 @@
 import os
 import shutil
 
-tag = 'Math'
-to_dir = '/home/chris/Documents/LeetCodeBook/' + tag
-from_dir = '/home/chris/Documents/problems/' + tag
+to_dir = '/home/chris/Documents/LeetCodeBook/Stack_Queue'
+from_dir = '/home/chris/Documents/problems/Stack'
 others_dir = os.path.join(to_dir, 'others')
 os.makedirs(others_dir, exist_ok=True)
 
