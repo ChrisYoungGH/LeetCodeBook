@@ -1,12 +1,12 @@
 import os
 import shutil
 
-to_dir = '/home/chris/Documents/LeetCodeBook/Stack_Queue'
-from_dir = '/home/chris/Documents/problems/Stack'
+to_dir = '/home/chris/Documents/LeetCodeBook/String'
+from_dir = '/home/chris/Documents/problems/String'
 others_dir = os.path.join(to_dir, 'others')
 os.makedirs(others_dir, exist_ok=True)
 
-to_files = [f for f in os.listdir(to_dir) if f != 'about.md']
+to_files = [f for f in os.listdir(to_dir) if f.endswith('md') and f != 'about.md']
 from_files = os.listdir(from_dir)
 
 search = {}
