@@ -1,8 +1,8 @@
 import os
 import shutil
 
-to_dir = '/home/chris/Documents/LeetCodeBook/String'
-from_dir = '/home/chris/Documents/problems/String'
+to_dir = '/home/chris/Documents/LeetCodeBook/Tree'
+from_dir = '/home/chris/Documents/problems/Tree'
 others_dir = os.path.join(to_dir, 'others')
 os.makedirs(others_dir, exist_ok=True)
 
