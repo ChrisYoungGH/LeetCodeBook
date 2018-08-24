@@ -1,7 +1,19 @@
 # Summary
-
+* [前言](./README.md)
+* [目录](./about.md)
 * [数组](./Array/about.md)
+
 * [哈希表](./HashTable/about.md)
+	* [Hash](./HashTable/001.two-sum.md)
+	* [Hash](./HashTable/350.intersection-of-two-arrays-ii.md)
+	* [Hash](./HashTable/706.design-hashmap.md)
+	* [Hash](./HashTable/187.repeated-dna-sequences.md)
+	* [Hash](./HashTable/454.4sum-ii.md)
+	* [Hash](./HashTable/290.word-pattern.md)
+	* [Hash](./HashTable/525.contiguous-array.md)
+	* [Hash](./HashTable/347.top-k-frequent-elements.md)
+	* [Hash](./HashTable/560.subarray-sum-equals-k.md)
+
 * [链表](./LinkedList/about.md)
 * [树](./Tree/about.md)
 * [栈和队列](./Stack_Queue/about.md)
@@ -18,7 +30,7 @@
 	* [Search](./BinarySearch/154.find-minimum-in-rotated-sorted-array-ii.md)
 	* [Search](./BinarySearch/162.find-peak-element.md)
 	* [Search](./BinarySearch/74.search-a-2d-matrix.md)
-	
+
 * [字符串](./String/about.md)
 * [数学](./Math/about.md)
 * [位运算](./Bitmanipulation/about.md)
