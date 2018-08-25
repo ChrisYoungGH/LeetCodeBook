@@ -1,0 +1,11 @@
+* [两数之和(Easy)](./HashTable/001.two-sum.md)
+* [四数相加 II(Medium)](./HashTable/454.4sum-ii.md)
+* [连续数组(Medium)](./HashTable/525.contiguous-array.md)
+* [和为K的子数组(Medium)](./HashTable/560.subarray-sum-equals-k.md)
+* [前K个高频元素(Medium)](./HashTable/347.top-k-frequent-elements.md)
+* [两个数组的交集 II(Easy)](./HashTable/350.intersection-of-two-arrays-ii.md)
+* [单词模式(Easy)](./HashTable/290.word-pattern.md)
+* [重复的DNA序列(Medium)](./HashTable/187.repeated-dna-sequences.md)
+* [设计哈希映射(Easy)](./HashTable/706.design-hashmap.md)
+
+* [最长连续序列(Hard)](./Array/128.longest-consecutive-sequence.md)

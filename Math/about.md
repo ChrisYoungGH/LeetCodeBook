@@ -1,0 +1,11 @@
+* [x 的平方根(Easy)](./Math/069.sqrtx.md)
+* [Pow(x, n)(Medium)](./Math/050.powx-n.md)
+* [加一(Easy)](./Math/066.plus-one.md)
+* [两数相除(Medium)](./Math/029.divide-two-integers.md)
+* [罗马数字转整数(Easy)](./Math/013.roman-to-integer.md)
+* [整数转罗马数字(Medium)](./Math/012.integer-to-roman.md)
+* [二进制求和(Easy)](./Math/067.add-binary.md)
+* [字符串相乘(Medium)](./Math/043.multiply-strings.md)
+* [杨辉三角(Easy)](./Math/118.pascals-triangle.md)
+* [杨辉三角 II(Easy)](./Math/119.pascals-triangle-ii.md)
+
