@@ -8,4 +8,6 @@
 * [字符串相乘(Medium)](./043.multiply-strings.md)
 * [杨辉三角(Easy)](./118.pascals-triangle.md)
 * [杨辉三角 II(Easy)](./119.pascals-triangle-ii.md)
+* [格雷编码(Medium)](./089.gray-code.md)
+* [reverse 回文数(Easy)](./009.palindrome-number.md)
 

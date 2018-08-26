@@ -8,3 +8,10 @@
 * [重复的DNA序列(Medium)](./187.repeated-dna-sequences.md)
 * [设计哈希映射(Easy)](./706.design-hashmap.md)
 * [最长连续序列(Hard)](./128.longest-consecutive-sequence.md)
+* [直线上最多的点数(Hard)](./149.max-points-on-a-line.md)
+
+* 判断数组是否含有重复数
+    * [存在重复元素(Easy)](./217.contains-duplicate.md)
+    * [存在重复元素II(Easy)](./219.contains-duplicate-ii.md)
+    * [存在重复元素III(Medium)](./220.contains-duplicate-iii.md)
+    

@@ -5,3 +5,5 @@
 * [寻找旋转排序数组中的最小值(Medium)](./153.find-minimum-in-rotated-sorted-array.md)
 * [寻找旋转排序数组中的最小值 II(Hard)](./154.find-minimum-in-rotated-sorted-array-ii.md)
 * [在排序数组中查找元素的第一个和最后一个位置(Medium)](./034.find-first-and-last-position-of-element-in-sorted-array.md)
+* [寻找重复数(Medium)](./287.find-the-duplicate-number.md)
+* [两个排序数组的中位数(Hard)](./004.median-of-two-sorted-arrays.md)

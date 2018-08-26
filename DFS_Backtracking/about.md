@@ -16,3 +16,5 @@
 * [N皇后(Hard)](./051.n-queens.md)
 * [N皇后 II(Hard)](./052.n-queens-ii.md)
 * [解数独(Hard)](./037.sudoku-solver.md)
+* [火柴拼正方形(Medium)](./473.matchsticks-to-square.md)
+* [被围绕的区域(Medium)](./130.surrounded-regions.md)
