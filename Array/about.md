@@ -32,8 +32,7 @@
 * [★★☆ 下一个排列](./031.next-permutation.md)
 * [★☆☆ 合并两个有序数组](./088.merge-sorted-array.md)
 
-### 其他
-* [★☆☆ 回文数](./009.palindrome-number.md)
+### 位操作
 * [★★☆ 有效的数独](./036.valid-sudoku.md)
 
 ### 二维矩阵
