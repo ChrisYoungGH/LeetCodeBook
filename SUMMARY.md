@@ -50,6 +50,16 @@
 	* [直线上最多的点数](./HashTable/149.max-points-on-a-line.md)
 	* [设计哈希映射](./HashTable/706.design-hashmap.md)
 
+* [二分查找](./BinarySearch/about.md)
+	* [搜索插入位置](./BinarySearch/035.search-insert-position.md)
+	* [寻找峰值](./BinarySearch/162.find-peak-element.md)
+	* [在排序数组中查找元素的第一个和最后一个位置](./BinarySearch/034.find-first-and-last-position-of-element-in-sorted-array.md)
+	* [寻找旋转排序数组中的最小值](./BinarySearch/153.find-minimum-in-rotated-sorted-array.md)
+	* [寻找旋转排序数组中的最小值 II](./BinarySearch/154.find-minimum-in-rotated-sorted-array-ii.md)
+	* [搜索旋转排序数组](./BinarySearch/033.search-in-rotated-sorted-array.md)
+	* [搜索旋转排序数组 II](./BinarySearch/081.search-in-rotated-sorted-array-ii.md)
+	* [寻找重复数](./BinarySearch/287.find-the-duplicate-number.md)
+	* [两个排序数组的中位数](./BinarySearch/004.median-of-two-sorted-arrays.md)
 
 * [链表](./LinkedList/about.md)
 	* [两数相加(Medium)](./LinkedList/002.add-two-numbers.md)
@@ -163,15 +173,6 @@
 	* [三角形最小路径和(Medium)](./DynamicProgramming/120.triangle.md)
 	* [戳气球(Hard)](./DynamicProgramming/312.burst-balloons.md)
 	* [编辑距离(Hard)](./DynamicProgramming/072.edit-distance.md)
-
-* [二分查找](./BinarySearch/about.md)
-	* [搜索插入位置(Easy)](./BinarySearch/035.search-insert-position.md)
-	* [寻找峰值(Medium)](./BinarySearch/162.find-peak-element.md)
-	* [搜索旋转排序数组(Medium)](./BinarySearch/033.search-in-rotated-sorted-array.md)
-	* [搜索旋转排序数组 II(Medium)](./BinarySearch/081.search-in-rotated-sorted-array-ii.md)
-	* [寻找旋转排序数组中的最小值(Medium)](./BinarySearch/153.find-minimum-in-rotated-sorted-array.md)
-	* [寻找旋转排序数组中的最小值 II(Hard)](./BinarySearch/154.find-minimum-in-rotated-sorted-array-ii.md)
-	* [在排序数组中查找元素的第一个和最后一个位置(Medium)](./BinarySearch/034.find-first-and-last-position-of-element-in-sorted-array.md)
 
 * [字符串](./String/about.md)
 	* [最长回文子串(Medium)](./String/005.longest-palindromic-substring.md)
