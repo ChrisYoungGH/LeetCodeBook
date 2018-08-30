@@ -3,7 +3,7 @@
 * [★★☆ 旋转链表](./061.rotate-list.md)
 
 ### 反转
-* [reverse 反转链表](./206.reverse-linked-list.md)
+* [★☆☆ 反转链表](./206.reverse-linked-list.md)
 * [★★☆ 反转链表 II](./092.reverse-linked-list-ii.md)
 * [★★★ k个一组翻转链表](./025.reverse-nodes-in-k-group.md)
 * [★★☆ 重排链表](./143.reorder-list.md)
