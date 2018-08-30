@@ -12,12 +12,24 @@ for tag_name in os.listdir(root_dir):
             continue
         name = filename.split('.')[1]
         filepath = os.path.join(tag_dir, filename)
+
         with open(filepath) as fr:
             data = fr.readlines()
-        title = data[0].strip()
-        _, cn, en, diffc = re.split('[#（）]', title)
-        cn = cn.strip()
-        data[0] = '# [{}]({})（[{}]({})）*{}*\n'.format(cn, url_cn+name, en, url_en+name, diffc)
+        ori_title = data[0].strip()
+
+        link = ori_title
+        link = re.sub('\[[a-zA-Z0-9 ]+\]', '[Origin]', link, 1)
+        link = re.sub('\[[\u4ae0-\u9fa5 ]+\]', '[原题链接]', link, 1)
+        link = re.sub('\*(Easy|Medium|Hard)\*', '', link, 1)
+        link = re.sub('#', '###', link, 1)
+
+        title = re.sub('([\[\]]|\(https://[a-zA-Z0-9\.\-/]+\))', '', ori_title)
+        data[0] = title + '\n' + link + '\n'
+
+        # _, cn, en, diffc = re.split('[#（）]', title)
+        # cn = cn.strip()
+        # data[0] = '# [{}]({})（[{}]({})）*{}*\n'.format(cn, url_cn+name, en, url_en+name, diffc)
+
         with open(filepath, 'w') as fw:
             for line in data:
                 fw.write(line)
