@@ -1,5 +1,5 @@
-* [最大子序和(Easy)](./053.maximum-subarray.md)
-* [打家劫舍(Easy)](./198.house-robber.md)
-* [加油站(Medium)](./134.gas-station.md)
-* [跳跃游戏(Medium)](./055.jump-game.md)
-* [跳跃游戏 II(Hard)](./045.jump-game-ii.md)
+### 贪心
+* [★★☆ 加油站](./134.gas-station.md)
+* [★★☆ 跳跃游戏](./055.jump-game.md)
+* [★★★ 跳跃游戏 II](./045.jump-game-ii.md)
+* [★★★ 分发糖果](./135.candy.md)

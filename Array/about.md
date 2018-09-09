@@ -14,7 +14,6 @@
 * [★☆☆ 最长公共前缀](./014.longest-common-prefix.md)
 * [★☆☆ 删除排序数组中的重复项](./026.remove-duplicates-from-sorted-array.md)
 * [★★☆ 删除排序数组中的重复项 II](./080.remove-duplicates-from-sorted-array-ii.md)
-* [★★★ 分发糖果](./135.candy.md)
 
 ### 交换
 * [★★★ 缺失的第一个正数](./041.first-missing-positive.md)

@@ -18,3 +18,4 @@
 * [解数独(Hard)](./037.sudoku-solver.md)
 * [火柴拼正方形(Medium)](./473.matchsticks-to-square.md)
 * [被围绕的区域(Medium)](./130.surrounded-regions.md)
+* [完全平方数(Medium)](./279.perfect-squares.md)
