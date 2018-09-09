@@ -9,6 +9,7 @@
 ### 计数、桶
 * [★☆☆ 两个数组的交集 II](./350.intersection-of-two-arrays-ii.md)
 * [★★☆ 前K个高频元素](./347.top-k-frequent-elements.md)
+* [★★☆ 砖墙](./554.brick-wall.md)
 
 ### 重复数、multiset
 * [★☆☆ 存在重复元素](./217.contains-duplicate.md)
