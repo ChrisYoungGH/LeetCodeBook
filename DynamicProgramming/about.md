@@ -19,7 +19,7 @@
 * [三角形最小路径和(Medium)](./120.triangle.md)
 * [戳气球(Hard)](./312.burst-balloons.md)
 * [编辑距离(Hard)](./072.edit-distance.md)
-
-
-
-
+* [矩阵中的最长递增路径(Hard)](./329.longest-increasing-path-in-a-matrix.md)
+* [零钱兑换(Medium)](./322.coin-change.md)
+* [最大正方形(Medium)](./221.maximal-square.md)
+* [出界的路径数(Medium)](./576.out-of-boundary-paths.md)
