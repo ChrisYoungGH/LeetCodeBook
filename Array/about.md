@@ -6,8 +6,6 @@
 * [★★☆ 长度最小的子数组](./209.minimum-size-subarray-sum.md)
 
 ### 从左到右扫描数组
-* [★☆☆ 买卖股票的最佳时机](./121.best-time-to-buy-and-sell-stock.md)
-* [★☆☆ 买卖股票的最佳时机 II](./122.best-time-to-buy-and-sell-stock-ii.md)
 * [★★☆ 合并区间](./056.merge-intervals.md)
 * [★★★ 插入区间](./057.insert-interval.md)
 * [★☆☆ 移除元素](./027.remove-element.md)
