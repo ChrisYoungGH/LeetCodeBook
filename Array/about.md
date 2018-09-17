@@ -20,11 +20,6 @@
 * [★★☆ 颜色分类](./075.sort-colors.md)
 * [★★☆ 数组中重复的数据](./442.find-all-duplicates-in-an-array.md)
 
-### 异或
-* [★☆☆ 缺失数字](./268.missing-number.md)
-* [★☆☆ 只出现一次的数字](./136.single-number.md)
-* [★★☆ 只出现一次的数字 II](./137.single-number-ii.md)
-
 ### 排序
 * [★★☆ 下一个排列](./031.next-permutation.md)
 * [★☆☆ 合并两个有序数组](./088.merge-sorted-array.md)
