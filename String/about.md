@@ -12,3 +12,9 @@
 * [简化路径(Medium)](./071.simplify-path.md)
 * [字母异位词分组(Medium)](./049.group-anagrams.md)
 * [不同的子序列(Hard)](./115.distinct-subsequences.md)
+
+### 动态规划
+* [编辑距离(Hard)](../DynamicProgramming/072.edit-distance.md)
+* [分割回文串 II(Hard)](../DynamicProgramming/132.palindrome-partitioning-ii.md)
+* [交错字符串(Hard)](../DynamicProgramming/097.interleaving-string.md)
+* [扰乱字符串(Hard)](../DynamicProgramming/087.scramble-string.md)
