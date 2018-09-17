@@ -164,6 +164,7 @@
 	* [课程表 II](./DFS_BFS_Backtracking/210.course-schedule-ii.md)
 
 * [动态规划](./DynamicProgramming/about.md)
+	* [最大子序和(Easy)](./DynamicProgramming/053.maximum-subarray.md)
 	* [最小路径和(Medium)](./DynamicProgramming/064.minimum-path-sum.md)
 	* [最长上升子序列(Medium)](./DynamicProgramming/300.longest-increasing-subsequence.md)
 	* [爬楼梯(Easy)](./DynamicProgramming/070.climbing-stairs.md)
