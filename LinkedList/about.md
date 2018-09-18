@@ -22,6 +22,9 @@
 * [★☆☆ 删除排序链表中的重复元素](./083.remove-duplicates-from-sorted-list.md)
 * [★★☆ 删除排序链表中的重复元素 II](./082.remove-duplicates-from-sorted-list-ii.md)
 
+### 删除
+* [★☆☆ 删除链表中的节点](./237.delete-node-in-a-linked-list.md)
+
 ### 两个指针
 * [★★☆ 有序链表转换二叉搜索树](./109.convert-sorted-list-to-binary-search-tree.md)
 * [★★☆ 删除链表的倒数第N个节点](./019.remove-nth-node-from-end-of-list.md)

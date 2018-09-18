@@ -26,10 +26,10 @@
 ### 字符串
 * [★★☆ 单词拆分](./139.word-break.md)
 * [★★★ 编辑距离](./072.edit-distance.md)
+* [★★★ 不同的子序列](./115.distinct-subsequences.md)
 * [★★☆ 解码方法](./091.decode-ways.md)
 * [★★★ 分割回文串 II](./132.palindrome-partitioning-ii.md)
 * [★★★ 交错字符串](./097.interleaving-string.md)
-* [★★★ 扰乱字符串](./087.scramble-string.md)
 * [★★☆ 出界的路径数](./576.out-of-boundary-paths.md)
 
 ### 反过来思考
