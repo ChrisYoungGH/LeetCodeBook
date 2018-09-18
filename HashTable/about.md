@@ -1,7 +1,6 @@
 ### 求和
 * [★☆☆ 两数之和](./001.two-sum.md)
 * [★★☆ 四数相加 II](./454.4sum-ii.md)
-* [★☆☆ 爬楼梯](../DynamicProgramming/070.climbing-stairs.md)
 
 ### 前缀和
 * [★★☆ 和为K的子数组](./560.subarray-sum-equals-k.md)

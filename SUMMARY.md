@@ -1,6 +1,6 @@
 # Summary
 * [前言](./README.md)
-* [目录](./SUMMARY.md)
+* [目录](./content.md)
 
 * [数组](./Array/about.md)
 	* [三数之和](./Array/015.3sum.md)
