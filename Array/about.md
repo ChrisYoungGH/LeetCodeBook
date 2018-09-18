@@ -4,6 +4,7 @@
 * [★★☆ 最接近的三数之和](./016.3sum-closest.md)
 * [★★☆ 盛最多水的容器](./011.container-with-most-water.md)
 * [★★☆ 长度最小的子数组](./209.minimum-size-subarray-sum.md)
+* [★☆☆ 爬楼梯](../DynamicProgramming/070.climbing-stairs.md)
 
 ### 从左到右扫描数组
 * [★★☆ 合并区间](./056.merge-intervals.md)
