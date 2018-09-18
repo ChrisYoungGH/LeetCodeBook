@@ -12,3 +12,4 @@
 ### 以中点为起始搜索或收缩
 * [★★☆ 寻找重复数](./287.find-the-duplicate-number.md)
 * [★★★ 两个排序数组的中位数](./004.median-of-two-sorted-arrays.md)
+* [★☆☆ 爬楼梯](../DynamicProgramming/070.climbing-stairs.md)

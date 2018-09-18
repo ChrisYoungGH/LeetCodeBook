@@ -30,4 +30,4 @@
 * [★★☆ 完全平方数](./279.perfect-squares.md)
 * [★★☆ 课程表](./207.course-schedule.md)
 * [★★☆ 课程表 II](./210.course-schedule-ii.md)
-
+* [★☆☆ 爬楼梯](../DynamicProgramming/070.climbing-stairs.md)
