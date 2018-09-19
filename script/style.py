@@ -3,7 +3,6 @@ import re
 import json
 
 problem_dir = '../../LeetCodeProblems'
-tag_names = [name for name in os.listdir(problem_dir) if name[0].isupper()]
 problems = {}
 for tag in os.listdir(problem_dir):
     tag_dir = os.path.join(problem_dir, tag)
