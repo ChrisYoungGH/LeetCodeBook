@@ -2,6 +2,8 @@
 * [★☆☆ 爬楼梯](./070.climbing-stairs.md)
 
 ### 背包
+* [★★☆ 分割等和子集](./416.partition-equal-subset-sum.md)
+* [★★☆ 目标和](./494.target-sum.md)
 * [★★☆ 零钱兑换](./322.coin-change.md)
 
 ### 序列
