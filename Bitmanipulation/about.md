@@ -8,6 +8,7 @@
 * [★★☆ 只出现一次的数字 III](./260.single-number-iii.md)
 * [★☆☆ 两整数之和](./371.sum-of-two-integers.md)
 * [★★☆ 数组中两个数的最大异或值](./421.maximum-xor-of-two-numbers-in-an-array.md)
+* [★★☆ 格雷编码](./089.gray-code.md)
 
 ### 范围和按位遍历
 * [★☆☆ 二进制表示中质数个计算置位](./762.prime-number-of-set-bits-in-binary-representation.md)
