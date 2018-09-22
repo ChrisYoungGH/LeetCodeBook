@@ -1,5 +1,6 @@
 ### 设计
 * [★☆☆ 最小栈](./155.min-stack.md)
+* [★★★ 数据流的中位数](./295.find-median-from-data-stream.md)
 
 ### 匹配
 * [★☆☆ 有效的括号](./020.valid-parentheses.md)

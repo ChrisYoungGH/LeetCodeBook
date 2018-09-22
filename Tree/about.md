@@ -40,14 +40,17 @@
 * [★★☆ 填充同一层的兄弟节点 II](./117.populating-next-right-pointers-in-each-node-ii.md)
 
 ### 二叉搜索树
+* [★☆☆ 二叉搜索树中的搜索](./700.search-in-a-binary-search-tree.md)
 * [★☆☆ 两数之和 IV](./653.two-sum-iv-input-is-a-bst.md)
 * [★☆☆ 将有序数组转换为二叉搜索树](./108.convert-sorted-array-to-binary-search-tree.md)
 * [★★☆ 不同的二叉搜索树](./096.unique-binary-search-trees.md) *动态规划*
 * [★★☆ 不同的二叉搜索树 II](./095.unique-binary-search-trees-ii.md) *回溯*
 * [★☆☆ 把二叉搜索树转换为累加树](./538.convert-bst-to-greater-tree.md) *中序遍历*
+* [★★☆ 二叉搜索树中第K小的元素](./230.kth-smallest-element-in-a-bst.md) *中序遍历*
 * [★★☆ 验证二叉搜索树](./098.validate-binary-search-tree.md) *中序遍历*
 * [★★★ 恢复二叉搜索树](./099.recover-binary-search-tree.md) *中序遍历*
 
 ### 序列化
 * [★★☆ 寻找重复的子树](./652.find-duplicate-subtrees.md)
 * [★★☆ 验证二叉树的前序序列化](./331.verify-preorder-serialization-of-a-binary-tree.md)
+* [★★★ 二叉树的序列化与反序列化](./297.serialize-and-deserialize-binary-tree.md)

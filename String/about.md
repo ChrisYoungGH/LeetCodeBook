@@ -13,6 +13,7 @@
 * [★★☆ 比较版本号](./165.compare-version-numbers.md)
 
 ### 哈希
+* [★☆☆ 字符串中的第一个唯一字符](./387.first-unique-character-in-a-string.md)
 * [★★☆ 无重复字符的最长子串](./003.longest-substring-without-repeating-characters.md)
 * [★★☆ 字母异位词分组](./049.group-anagrams.md)
 
@@ -21,6 +22,9 @@
 * [★★★ 不同的子序列](../DynamicProgramming/115.distinct-subsequences.md)
 * [★★★ 交错字符串](../DynamicProgramming/097.interleaving-string.md)
 * [★★★ 分割回文串 II](../DynamicProgramming/132.palindrome-partitioning-ii.md)
+
+### 分治
+* [★★☆ 至少有K个重复字符的最长子串](./395.longest-substring-with-at-least-k-repeating-characters.md)
 
 ### 树递归
 * [★★★ 扰乱字符串](./087.scramble-string.md)

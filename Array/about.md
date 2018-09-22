@@ -20,8 +20,10 @@
 
 ### 排序
 * [★★☆ 下一个排列](./031.next-permutation.md)
+* [★★☆ 最大数](./179.largest-number.md)
 * [★☆☆ 合并两个有序数组](./088.merge-sorted-array.md)
 * [★★☆ 数组中的第K个最大元素](./215.kth-largest-element-in-an-array.md)
+* [★★☆ 有序矩阵中第K小的元素](./378.kth-smallest-element-in-a-sorted-matrix.md)
 
 ### 位操作
 * [★★☆ 有效的数独](./036.valid-sudoku.md)

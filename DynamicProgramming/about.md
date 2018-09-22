@@ -8,9 +8,11 @@
 
 ### 序列
 * [★☆☆ 最大子序和](./053.maximum-subarray.md)
+* [★★☆ 乘积最大子序列](./152.maximum-product-subarray.md)
 * [★☆☆ 打家劫舍](./198.house-robber.md)
 * [★★☆ 打家劫舍 II](./213.house-robber-ii.md)
 * [★★☆ 最长上升子序列](./300.longest-increasing-subsequence.md)
+* [★★☆ 递增的三元子序列](./334.increasing-triplet-subsequence.md)
 * [★★★ 俄罗斯套娃信封问题](./354.russian-doll-envelopes.md)
 
 ### 买股票

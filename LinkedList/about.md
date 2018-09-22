@@ -11,6 +11,7 @@
 ### 重排
 * [★★☆ 分隔链表](./086.partition-list.md)
 * [★★☆ 两两交换链表中的节点](./024.swap-nodes-in-pairs.md)
+* [★★☆ 奇偶链表](./328.odd-even-linked-list.md)
 
 ### 排序
 * [★★★ 合并K个排序链表](./023.merge-k-sorted-lists.md)

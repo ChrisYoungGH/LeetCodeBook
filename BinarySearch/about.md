@@ -1,4 +1,5 @@
 ### 查找位置
+* [★☆☆ 二分查找](./704.binary-search.md)
 * [★☆☆ 搜索插入位置](./035.search-insert-position.md)
 * [★★☆ 寻找峰值](./162.find-peak-element.md)
 * [★★☆ 在排序数组中查找元素的第一个和最后一个位置](./034.find-first-and-last-position-of-element-in-sorted-array.md)
