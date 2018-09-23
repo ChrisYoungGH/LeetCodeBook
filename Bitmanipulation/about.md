@@ -15,3 +15,6 @@
 * [★★☆ 汉明距离总和](./477.total-hamming-distance.md)
 * [★☆☆ 数字的补数](./476.number-complement.md)
 * [★★☆ 数字范围按位与](./201.bitwise-and-of-numbers-range.md)
+
+### 用位存数
+* [★★☆ 有效的数独](./036.valid-sudoku.md)
