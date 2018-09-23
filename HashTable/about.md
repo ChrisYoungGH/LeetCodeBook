@@ -7,6 +7,7 @@
 * [★★☆ 连续数组](./525.contiguous-array.md)
 
 ### 计数、桶
+* [★★☆ 重复的DNA序列](./187.repeated-dna-sequences.md)
 * [★☆☆ 两个数组的交集 II](./350.intersection-of-two-arrays-ii.md)
 * [★★☆ 前K个高频元素](./347.top-k-frequent-elements.md)
 * [★★☆ 砖墙](./554.brick-wall.md)
@@ -18,7 +19,6 @@
 
 ### 扫描
 * [★☆☆ 单词模式](./290.word-pattern.md)
-* [★★☆ 重复的DNA序列](./187.repeated-dna-sequences.md)
 * [★★★ 最长连续序列](./128.longest-consecutive-sequence.md)
 * [★★★ 直线上最多的点数](./149.max-points-on-a-line.md)
 
