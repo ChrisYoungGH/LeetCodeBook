@@ -9,9 +9,9 @@
 * [★★☆ 合并区间](./056.merge-intervals.md)
 * [★★★ 插入区间](./057.insert-interval.md)
 * [★☆☆ 移除元素](./027.remove-element.md)
-* [★☆☆ 最长公共前缀](./014.longest-common-prefix.md)
 * [★☆☆ 删除排序数组中的重复项](./026.remove-duplicates-from-sorted-array.md)
 * [★★☆ 删除排序数组中的重复项 II](./080.remove-duplicates-from-sorted-array-ii.md)
+* [★☆☆ 最长公共前缀](./014.longest-common-prefix.md)
 
 ### 交换
 * [★★★ 缺失的第一个正数](./041.first-missing-positive.md)
@@ -24,9 +24,6 @@
 * [★☆☆ 合并两个有序数组](./088.merge-sorted-array.md)
 * [★★☆ 数组中的第K个最大元素](./215.kth-largest-element-in-an-array.md)
 * [★★☆ 有序矩阵中第K小的元素](./378.kth-smallest-element-in-a-sorted-matrix.md)
-
-### 位操作
-* [★★☆ 有效的数独](./036.valid-sudoku.md)
 
 ### 二维矩阵
 * [★★☆ 搜索二维矩阵](./074.search-a-2d-matrix.md)
