@@ -30,7 +30,6 @@
 ### 两个指针
 * [★☆☆ 环形链表](./141.linked-list-cycle.md)
 * [★★☆ 环形链表 II](./142.linked-list-cycle-ii.md)
-* [★★☆ 有序链表转换二叉搜索树](./109.convert-sorted-list-to-binary-search-tree.md)
 
 ### 综合
 * [★★☆ 复制带随机指针的链表](./138.copy-list-with-random-pointer.md)
