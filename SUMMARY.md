@@ -2,7 +2,7 @@
 * [前言](./README.md)
 * [目录](./content.md)
 
-* [数组](./Array/about.md)(25)
+* [数组](./Array/about.md) 25
 	* [三数之和](./Array/015.3sum.md)
 	* [四数之和](./Array/018.4sum.md)
 	* [最接近的三数之和](./Array/016.3sum-closest.md)
@@ -29,7 +29,7 @@
 	* [旋转图像](./Array/048.rotate-image.md)
 	* [矩阵置零](./Array/073.set-matrix-zeroes.md)
 
-* [哈希表](./HashTable/about.md)(15)
+* [哈希表](./HashTable/about.md) 15
 	* [两数之和](./HashTable/001.two-sum.md)
 	* [四数相加 II](./HashTable/454.4sum-ii.md)
 	* [和为K的子数组](./HashTable/560.subarray-sum-equals-k.md)
@@ -46,7 +46,7 @@
 	* [直线上最多的点数](./HashTable/149.max-points-on-a-line.md)
 	* [设计哈希映射](./HashTable/706.design-hashmap.md)
 
-* [二分查找](./BinarySearch/about.md)(10)
+* [二分查找](./BinarySearch/about.md) 10
     * [二分查找](./BinarySearch/704.binary-search.md)
 	* [搜索插入位置](./BinarySearch/035.search-insert-position.md)
 	* [寻找峰值](./BinarySearch/162.find-peak-element.md)
@@ -58,7 +58,7 @@
 	* [寻找重复数](./BinarySearch/287.find-the-duplicate-number.md)
 	* [两个排序数组的中位数](./BinarySearch/004.median-of-two-sorted-arrays.md)
 
-* [链表](./LinkedList/about.md)(21)
+* [链表](./LinkedList/about.md) 21
 	* [两数相加](./LinkedList/002.add-two-numbers.md)
 	* [旋转链表](./LinkedList/061.rotate-list.md)
 	* [反转链表](./LinkedList/206.reverse-linked-list.md)
@@ -81,7 +81,7 @@
 	* [复制带随机指针的链表](./LinkedList/138.copy-list-with-random-pointer.md)
 	* [LRU缓存机制](./LinkedList/146.lru-cache.md)
 
-* [树](./Tree/about.md)(42)
+* [树](./Tree/about.md) 42
 	* [二叉树的前序遍历](./Tree/144.binary-tree-preorder-traversal.md)
 	* [ 二叉树的后序遍历](./Tree/145.binary-tree-postorder-traversal.md)
 	* [二叉树的中序遍历](./Tree/094.binary-tree-inorder-traversal.md)
@@ -126,28 +126,35 @@
 	* [验证二叉树的前序序列化](./Tree/331.verify-preorder-serialization-of-a-binary-tree.md)
     * [二叉树的序列化与反序列化](./Tree/297.serialize-and-deserialize-binary-tree.md)
 
-* [栈和队列](./Stack_Queue/about.md)(9)
+* [栈和队列](./Stack_Queue/about.md) 10
 	* [最小栈](./Stack_Queue/155.min-stack.md)
 	* [数据流的中位数](./Stack_Queue/295.find-median-from-data-stream.md)
 	* [有效的括号](./Stack_Queue/020.valid-parentheses.md)
 	* [最长有效括号](./Stack_Queue/032.longest-valid-parentheses.md)
 	* [逆波兰表达式求值](./Stack_Queue/150.evaluate-reverse-polish-notation.md)
 	* [下一个更大元素 I](./Stack_Queue/496.next-greater-element-i.md)
+	* [移掉K位数字](./Stack_Queue/402.remove-k-digits.md)
 	* [柱状图中最大的矩形](./Stack_Queue/084.largest-rectangle-in-histogram.md)
 	* [接雨水](./Stack_Queue/042.trapping-rain-water.md)
 	* [滑动窗口最大值](./Stack_Queue/239.sliding-window-maximum.md)
 
-* [贪心](./Greedy/about.md)(8)
-	* [加油站](./Greedy/134.gas-station.md)
+* [贪心](./Greedy/about.md) 14
 	* [跳跃游戏](./Greedy/055.jump-game.md)
-	* [跳跃游戏 II](./Greedy/045.jump-game-ii.md)
-	* [买卖股票的最佳时机](./Greedy/121.best-time-to-buy-and-sell-stock.md)
-	* [买卖股票的最佳时机 II](./Greedy/122.best-time-to-buy-and-sell-stock-ii.md)
-	* [分发糖果](./Greedy/135.candy.md)
-	* [无重叠区间](./Greedy/435.non-overlapping-intervals.md)
-    * [任务调度器](./621.task-scheduler.md)
+    * [跳跃游戏 II](./Greedy/045.jump-game-ii.md)
+    * [买卖股票的最佳时机](./Greedy/121.best-time-to-buy-and-sell-stock.md)
+    * [买卖股票的最佳时机 II](./Greedy/122.best-time-to-buy-and-sell-stock-ii.md)
+    * [柠檬水找零](./Greedy/860.lemonade-change.md)
+    * [分发糖果](./Greedy/135.candy.md)
+    * [判断子序列](./Greedy/392.is-subsequence.md)
+    * [分发饼干](./Greedy/455.assign-cookies.md)
+    * [根据身高重建队列](./Greedy/406.queue-reconstruction-by-height.md)
+    * [无重叠区间](./Greedy/435.non-overlapping-intervals.md)
+    * [用最少数量的箭引爆气球](./Greedy/452.minimum-number-of-arrows-to-burst-balloons.md)
+    * [摆动序列](./Greedy/376.wiggle-subsequence.md)
+    * [加油站](./Greedy/134.gas-station.md)
+    * [任务调度器](./Greedy/621.task-scheduler.md)
     
-* [回溯/DFS/BFS](./DFS_BFS_Backtracking/about.md)(27)
+* [回溯/DFS/BFS](./DFS_BFS_Backtracking/about.md) 27
 	* [第k个排列](./DFS_BFS_Backtracking/060.permutation-sequence.md)
 	* [全排列](./DFS_BFS_Backtracking/046.permutations.md)
 	* [全排列 II](./DFS_BFS_Backtracking/047.permutations-ii.md)
@@ -176,7 +183,7 @@
 	* [课程表](./DFS_BFS_Backtracking/207.course-schedule.md)
 	* [课程表 II](./DFS_BFS_Backtracking/210.course-schedule-ii.md)
 
-* [动态规划](./DynamicProgramming/about.md)(29)
+* [动态规划](./DynamicProgramming/about.md) 29
 	* [爬楼梯](./DynamicProgramming/070.climbing-stairs.md)
 	* [分割等和子集](./DynamicProgramming/416.partition-equal-subset-sum.md)
     * [目标和](./DynamicProgramming/494.target-sum.md)
@@ -208,7 +215,7 @@
 	* [单词拆分 II](./DFS_BFS_Backtracking/140.word-break-ii.md)
 	* [矩阵中的最长递增路径](./DynamicProgramming/329.longest-increasing-path-in-a-matrix.md)
 
-* [字符串](./String/about.md)(16)
+* [字符串](./String/about.md) 16
 	* [最后一个单词的长度](./String/058.length-of-last-word.md)
 	* [实现strStr()](./String/028.implement-strstr.md)
 	* [最长回文子串](./String/005.longest-palindromic-substring.md)
@@ -230,7 +237,7 @@
 	* [有效数字](./String/065.valid-number.md)
 	* [整数转换英文表示](./String/273.integer-to-english-words.md)
 
-* [数学](./Math/about.md)(11)
+* [数学](./Math/about.md) 11
     * [x 的平方根](./Math/069.sqrtx.md)
 	* [Pow(x, n)](./Math/050.powx-n.md)
 	* [reverse 回文数](./Math/009.palindrome-number.md)
@@ -243,7 +250,7 @@
 	* [罗马数字转整数](./Math/013.roman-to-integer.md)
 	* [整数转罗马数字](./Math/012.integer-to-roman.md)
 	
-* [位操作](./Bitmanipulation/about.md)(13)
+* [位操作](./Bitmanipulation/about.md) 13
 	* [2的幂](./Bitmanipulation/231.power-of-two.md)
 	* [缺失数字](./Bitmanipulation/268.missing-number.md)
 	* [只出现一次的数字](./Bitmanipulation/136.single-number.md)

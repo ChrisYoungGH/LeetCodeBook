@@ -6,6 +6,7 @@
 
 ### 单调栈/队列
 * [★☆☆ 下一个更大元素 I](./496.next-greater-element-i.md)
+* [★★☆ 移掉K位数字](./402.remove-k-digits.md)
 * [★★★ 柱状图中最大的矩形](./084.largest-rectangle-in-histogram.md)
 * [★★★ 接雨水](./042.trapping-rain-water.md)
 * [★★★ 滑动窗口最大值](./239.sliding-window-maximum.md)
